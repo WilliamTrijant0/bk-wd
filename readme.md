@@ -2,11 +2,6 @@
 
 ---
 
-## Gambaran Umum
-Sistem Temu Janji Pasien Dokter atau yang lebih dikenal dengan Appointment System.
-Sistem ini sudah banyak digunakan / diberlakukan pada rumah sakit komersial. Salah satu
-contohnya adalah rumah sakit Elizabeth (https://regonline.rs-elisabeth.com/)
-
 ## Fitur-fitur
 
 - **Mengelola Dokter**
@@ -50,7 +45,7 @@ Sebagai seorang Dokter, saya ingin mengetahui riwayat pasien yang telah saya per
 
 ## Instalasi
 
-1. Klon repository: `git clone git@github.com:Bengkel-Koding-Web/bk-poliklinik.git`
+1. Klon repository: `git clone https://github.com/WilliamTrijant0/bk-wd.git`
 
 2. Siapkan server web (misalnya, Apache) dan konfigurasikan agar menunjuk ke direktori publik proyek.
 
@@ -70,14 +65,5 @@ Sebagai seorang Dokter, saya ingin mengetahui riwayat pasien yang telah saya per
 
 4. Sesuaikan pengaturan sistem sesuai kebutuhan.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [Bengkel Koding](https://bengkelkoding.dinus.ac.id/).
-
-## Pengakuan
-
-- Terima kasih khusus kepada [Bootstrap](https://getbootstrap.com/) atas menyediakan kerangka desain responsif.
-
-- Ikon dibuat oleh [Freepik](https://www.freepik.com) dari [www.flaticon.com](https://www.flaticon.com/).
 
 --- 
